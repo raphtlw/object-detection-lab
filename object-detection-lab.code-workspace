@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "object-detection-tensorflow-api"
+		},
+		{
+			"path": "object-detector-v1"
+		},
+		{
+			"path": "data"
+		}
+	],
+	"settings": {}
+}
